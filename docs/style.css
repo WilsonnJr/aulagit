@@ -1,0 +1,8 @@
+/*Seletor de elemento*/
+body{
+    background-color:#340164;
+}
+div{
+    border-bottom: 1% solid 1px;
+    margin: 1%;
+}
